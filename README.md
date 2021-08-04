@@ -12,5 +12,6 @@ Optional, but always great to have:
 -I wound up deciding to get Male to Female jumper cables to extend the sensors further out than the provided cables do. I used the ones here: https://www.amazon.com/gp/product/B06XRV92ZB/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 -Respirator, no solder fumes for me!
 -Helping Hands to hold the board while soldering (and while it was still in the DIY phase this doubled as my controller stand for a while)
+-I'm working on a 3D-printable enclosure to make everything look nice and neat. No more wires! Will update with the model and printing instructions as soon as it's available.
 
 Instructions coming soon! Next commit!
