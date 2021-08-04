@@ -11,7 +11,8 @@ A DIY solution for creating a Dance Maniax controller, I wound up spending less 
 
 -A computer to program the microcontroller, but if you're using Stepmania you probably already have this!
 
-Optional, but always great to have:
+# Optional, but always great to have:
+
 -The Teensy 2.0 board uses a mini usb cable to connect to a computer but doesn't include one in the box. Other controllers may require different cable types so do your research!
 
 -I wound up deciding to get Male to Female jumper cables to extend the sensors further out than the provided cables do. I used the ones here: https://www.amazon.com/gp/product/B06XRV92ZB/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
